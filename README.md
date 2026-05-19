@@ -1,25 +1,49 @@
-<<<<<<< HEAD
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" alt="GHBanner" src="screenshots/banner.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Storyboard Extractor / ストーリーボード抽出ツール / 分镜提取器
 
-This contains everything you need to run your app locally.
+## 简介 / Introduction / 紹介
 
-View your app in AI Studio: https://ai.studio/apps/f24f61dc-720f-44df-9566-18e0b3b58b62
+**中文:**  
+Storyboard Extractor 是一款简单易用的工具，专为本地处理故事板图片设计。支持中文、英文、日文三语切换，让用户可以轻松操作并识别、拆分、整理故事板内容。
 
-## Run Locally
+**English:**  
+Storyboard Extractor is a user-friendly tool designed for processing storyboard images locally. It supports multilingual switching (Chinese, English, Japanese) to make recognition, splitting, and organizing storyboards easy for users.
 
-**Prerequisites:**  Node.js
+**日本語:**  
+Storyboard Extractor は、ローカルでストーリーボード画像を処理するための簡単に使えるツールです。日本語・英語・中国語の三言語対応で、ユーザーがストーリーボードの認識、分割、整理を簡単に行えます。
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# Storyboard-Extractor
-可本地运行的故事板提取器
->>>>>>> 263802c684c0f03bc0005815fa88b23e160bc927
+## 使用 / How to Use / 使用方法
+
+**中文:**  
+解压项目后，直接打开根目录的 `Storyboard-Extractor.exe` 即可使用工具。
+
+**English:**  
+After extracting the project, simply open `Storyboard-Extractor.exe` in the root directory to use the tool.
+
+**日本語:**  
+プロジェクトを解凍した後、ルートディレクトリの `Storyboard-Extractor.exe` を開くだけでツールを使用できます。
+
+---
+
+## 语言切换 / Language Switch / 言語切替
+
+在应用界面右上角选择 **中文 / English / 日本語** 切换语言。  
+Switch languages via the top-right corner of the application interface.  
+アプリの右上で言語を切り替可能です。
+
+## 注意事项 / Notes / 注意事項
+
+- 本工具部分内容使用 AI 编程工具生成，可能存在部分问题，请谨慎使用。  
+- The tool contains content generated with AI programming tools, some issues may exist. Use with caution.  
+- 本ツールは AI プログラミングツールで生成された部分があり、問題が含まれる場合があります。注意してご使用ください。
+
+- 如果该工具持续受到欢迎，作者将会持续更新和优化。  
+- If this tool continues to be popular, the author will continue to update and improve it.  
+- このツールが継続的に人気の場合、作者は更新と最適化を行う予定です。
+
+---
