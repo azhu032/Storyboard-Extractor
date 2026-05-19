@@ -1,0 +1,19 @@
+# 忽略 Node.js 依赖
+node_modules/
+
+# 忽略前端构建输出
+dist/
+build/
+
+# 忽略 Tauri 编译输出
+src-tauri/target/
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# VSCode 配置
+.vscode/

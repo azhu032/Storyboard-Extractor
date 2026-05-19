@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 分镜提取器2.2",
+  "description": "用于GitHub发布",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
