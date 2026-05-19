@@ -1,0 +1,30 @@
+Storyboard Extractor — 使用声明 / License / 使用に関する宣言
+
+版权所有 © 2026 azhu
+
+【中文】：
+1. 本工具免费提供给个人学习和非商业用途。
+2. 本工具不允许直接进行商业贩卖。
+3. 未经作者允许，任何个人或组织不得：
+   - 修改、分发或衍生本工具代码；
+   - 用于侵权或其他违法行为。
+4. 若需二次开发或其他使用方式，请联系作者获得授权。
+联系方式：Twitter @azhu_032
+
+【English】：
+1. This tool is provided free for personal study and non-commercial use.
+2. Direct commercial selling of this tool is not allowed.
+3. Without the author's permission, no individual or organization may:
+   - Modify, distribute, or create derivative works from the code;
+   - Use it for infringement or other illegal purposes.
+4. For secondary development or other usage, please contact the author for authorization.
+Contact: Twitter @azhu_032
+
+【日本語】：
+1. 本ツールは個人の学習および非営利目的で無料で提供されます。
+2. 本ツールを直接商用販売することは禁止されています。
+3. 作者の許可なしに、個人または組織は以下の行為を行ってはなりません：
+   - コードを変更、配布、または派生作品を作成すること
+   - 著作権侵害やその他違法行為に使用すること
+4. 二次開発やその他の利用については、必ず作者に許可を得てください。
+連絡先：Twitter @azhu_032
