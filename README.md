@@ -20,13 +20,13 @@ Storyboard Extractor は、ローカルでストーリーボード画像を処�
 ## 使用 / How to Use / 使用方法
 
 **中文:**  
-解压项目后，直接打开根目录的 `Storyboard-Extractor.exe` 即可使用工具。
+解压项目后，直接打开目录[src-tauri\target\release]中的 [app.exe] 即可使用工具。
 
 **English:**  
-After extracting the project, simply open `Storyboard-Extractor.exe` in the root directory to use the tool.
+After decompressing the project, simply open the [app.exe] file located in the [src-tauri\target\release] directory to use the tool.
 
 **日本語:**  
-プロジェクトを解凍した後、ルートディレクトリの `Storyboard-Extractor.exe` を開くだけでツールを使用できます。
+プロジェクトを解凍後、[src-tauri\target\release]ディレクトリ内の[app.exe]を直接開いて使用できます。
 
 ---
 
