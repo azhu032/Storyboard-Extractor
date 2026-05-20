@@ -36,6 +36,21 @@ After decompressing the project, simply open the [app.exe] file located in the [
 Switch languages via the top-right corner of the application interface.  
 アプリの右上で言語を切り替可能です。
 
+---
+
+## 注意事项 / Notes / 注意事項
+
+**中文:**  
+用户在使用本工具处理图像时，即表示同意本工具可以对上传的图像进行必要的处理以提供功能服务。本工具仅限用于合法用途，如处理个人作品或已获得授权的素材。用户必须保证上传的素材符合版权法律规定，并自行承担使用本工具处理任何受版权保护、违法或违规素材产生的后果。本工具及作者不对用户非法使用或对软件进行未经授权的修改和盗用行为承担任何责任。作者保留对软件及其生成内容进行合法追溯和保护的权利。
+
+**English:**  
+By using this tool to process images, the user consents to allow the tool to perform necessary operations on uploaded images to provide its functionality. This tool is intended solely for lawful purposes, such as processing personal work or legally authorized content. Users must ensure that uploaded content complies with copyright laws and are responsible for any consequences arising from processing copyrighted, illegal, or prohibited materials. The tool and its author are not liable for any unauthorized use, modification, or misappropriation of the software. The author reserves the right to legally trace and protect the software and its generated content.
+
+**日本語:**  
+ユーザーは、本ツールを使用して画像を処理することで、機能提供に必要な処理をツールが行うことを許可したものとみなされます。本ツールは、個人の作品や合法的に使用許諾された素材の処理など、合法的な目的のみに使用されます。ユーザーはアップロードする素材が著作権法に適合していることを保証し、著作権保護された素材や違法・禁止素材の処理による結果について自己責任を負うものとします。本ツールおよび作者は、ソフトウェアの無断使用、改変、盗用による問題に対して一切責任を負いません。作者は、ソフトウェアおよび生成されたコンテンツについて合法的な追跡と保護を行う権利を保持します。
+
+---
+
 ## 注意事项 / Notes / 注意事項
 
 - 本工具部分内容使用 AI 编程工具生成，可能存在部分问题，请谨慎使用。  
